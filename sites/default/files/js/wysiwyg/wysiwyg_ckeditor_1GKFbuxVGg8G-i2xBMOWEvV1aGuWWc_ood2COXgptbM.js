@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/music-addict/sites/all/libraries/ckeditor/';
